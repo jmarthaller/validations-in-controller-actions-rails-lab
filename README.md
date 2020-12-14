@@ -10,7 +10,7 @@ For example, if someone creates a blog post with less than 100 characters of con
 
 - Define validations on a model
 - Use a conditional statement in an action to render different responses based on the validation state of a model
-- Re-render a form with validation errors
+- Re-render a form with validation errors`
 - Validate a create action
 - Validate an update action
 
